@@ -1,6 +1,6 @@
-# Digital Product Jam
+# Product Jam 2025
 
-This repository holds software development course materials for Digital Product Jam - a joint course run by [Bezalel Academy of Art and Design](https://www.bezalel.ac.il/en), and the [Hebrew University](https://www.google.com/search?client=safari&rls=en&q=hebrew+universoity&ie=UTF-8&oe=UTF-8).
+This repository holds software development course materials for Digital Product Jam - a joint course run by [Bezalel Academy of Art and Design](https://www.bezalel.ac.il/en), and the [Hebrew University](https://new.huji.ac.il/).
 
 ## Description
 
